@@ -1,16 +1,16 @@
-《博德之门3》“非政确” mod Realms Restored 4.2 汉化补丁
+《博德之门3》反“政确” 模组 Realms Restored 4.2 汉化补丁
 ---
 
->> 和千篇一律的难看脸型、没胡子的矮人，以及满大街异域混搭的路人说再见！
->> 粉发另类角色、多灰皮杜尔加矮人、浓妆男性、轻佻马尾造型全部移除。
->> 超过1500名NPC外观重做！
+> 和千篇一律的难看脸型、没胡子的矮人，以及满大街异域混搭的路人说再见！
+> 粉发另类角色、多灰皮杜尔加矮人、浓妆男性、轻佻马尾造型全部移除。
+> 超过1500名NPC外观重做！
 
->> 本模组的核心目标是强化种族辨识度——举个例子，木精灵与高等精灵的视觉区分度大幅提升。各族独有的种族特征得以完整展现，再也不会出现全员花里胡哨、像加州彩虹大杂烩一样分不清的乱象。
+> 本模组的核心目标是强化种族辨识度——举个例子，木精灵与高等精灵的视觉区分度大幅提升。各族独有的种族特征得以完整展现，再也不会出现全员花里胡哨、像加州彩虹大杂烩一样分不清的乱象。
 
->> 想要完整体验 Realms Restored 模组全部内容，建议同步安装全套配套模组：外观美化（Aesthetics）、头部模型（Heads）、外观替换（Swaps）、名称修正（Names）、语音重制（Voices）、综合修复（Assorted Fixes）、净化提夫林（Undeviled Tieflings）、动态人群优化（Dynamic Crowds）。
->> 你也可以自行查阅每个子模组的功能介绍，按需挑选想要加入游戏的内容。
+> 想要完整体验 Realms Restored 模组全部内容，建议同步安装全套配套模组：外观美化（Aesthetics）、头部模型（Heads）、外观替换（Swaps）、名称修正（Names）、语音重制（Voices）、综合修复（Assorted Fixes）、净化提夫林（Undeviled Tieflings）、动态人群优化（Dynamic Crowds）。
+> 你也可以自行查阅每个子模组的功能介绍，按需挑选想要加入游戏的内容。
 
-[preview](/img/SCR-Banner-Main.gif)
+![preview](/img/SCR-Banner-Main.gif)
 
 # 总览  
 
@@ -53,11 +53,20 @@
 
 **注意**：本模组与 No Alphabets 兼容性极佳，配套专属的 RR No Alphabets 补丁还能进一步优化角色视觉效果。部分 NPC 内容未在本模组中修改，是为避免与无符文模组产生冲突，强烈建议两者一同安装！
 
-# mod 本体下载  
+# 模组本体下载  
 
 - [Realms Restored 4.2](https://rpghq.org/forums/viewtopic.php?t=3839-realms-restored-4-2-baldur-s-gate-3#p238112)
 - [No Alphabets 7.1](https://rpghq.org/forums/viewtopic.php?p=34884-no-alphabets-6-0-0-0-baldur-s-gate-3#p34884)
 
+# 其他模组（附赠）
+
+- 影心替换脸型（Another Face of Shadowheart）mod 打包（无需下载本体）](https://www.nexusmods.com/baldursgate3/mods/1419?tab=description)
+- 队友外型编辑解锁汉化（游戏自带模组管理器搜索：OriginMirrorUnlock）
+
+# 汉化下载
+
+- [release](https://github.com/rynkis/BG3-mods-translate/releases/tag/release)
+
 # 特别感谢  
 
-感谢豆包、DeepSeek 倾情奉献，她们翻译得比我好。
+感谢豆包倾情奉献，她翻译得比我好。
