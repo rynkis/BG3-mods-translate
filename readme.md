@@ -16,7 +16,7 @@
 
 踏入这片全新国度，每一名 NPC 都拥有贴合原著设定、区分种族/亚种/性别的专属外观。  
 
-本模组的核心初衷十分纯粹：还原被遗忘国度（费伦）经典龙与地下城复古画风，回归桌游原版与初代博德之门系列的写实美术基调。各类种族配色的设计思路，详见 [Fantasy Races Manifesto](https://rpghq.org/forums/viewtopic.php?t=3839-realms-restored-4-2-baldur-s-gate-3)。  
+本模组的核心初衷十分纯粹：还原被遗忘国度（费伦）经典龙与地下城复古画风，回归桌游原版与初代博德之门系列的写实美术基调。各类种族配色的设计思路，详见 [Fantasy Races Manifesto](https://rpghq.org/forums/viewtopic.php?t=3839-realms-restored-4-2-baldur-s-gate-3#p238112)。  
 
 总计约 1500 名 NPC 经过精细调整，让每个奇幻种族在容貌、声线、服饰上拥有专属辨识度，调整内容包含：  
 - 肤色与五官色调样式：
